@@ -13,9 +13,9 @@
 
 ## About me
 
-[![Github Badge](https://github.com/JoyciP)
+[![Github Badge] (https://github.com/JoyciP)
 
-[![Linkedin Badge](https://www.linkedin.com/in/joycisantos/)
+[![Linkedin Badge] (https://www.linkedin.com/in/joycisantos/)
 
 
 - Thanks for visiting.
