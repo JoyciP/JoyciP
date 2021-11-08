@@ -13,13 +13,16 @@
 
 ## About me
 
-[![Twitter][1.2]][1]
+[![GitHub][1.2]][1]
+[![Linkedin][2.2]][2]
 
-[1]: https://google.com
+[1]: https://github.com/JoyciP
 
 [1.2]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
-[![Linkedin Badge](https://www.linkedin.com/in/joycisantos/)
+[2]: https://www.linkedin.com/in/joycisantos/
+
+[2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 - Thanks for visiting.
