@@ -17,7 +17,7 @@
 
 [1]: https://google.com
 
-[1.2]: https://thumbs.dreamstime.com/z/an%C3%A3o-homem-pequeno-5052320.jpg
+[1.2]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 [![Linkedin Badge](https://www.linkedin.com/in/joycisantos/)
 
