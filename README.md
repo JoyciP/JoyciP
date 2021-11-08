@@ -14,6 +14,7 @@
 ## About me
 
 [![GitHub][1.2]][1]
+
 [![Linkedin][2.2]][2]
 
 [1]: https://github.com/JoyciP
