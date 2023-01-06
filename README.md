@@ -10,6 +10,7 @@
 :books: I’m currently learning everything.
 
 :outbox_tray: 2022 Goals: create a new project of life..
+:outbox_tray: 2023 Goals: Now, i'm sure, i'm going to be a Data Analytics :)
 
 ## About me
 
