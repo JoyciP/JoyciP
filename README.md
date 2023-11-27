@@ -1,17 +1,17 @@
 # Welcome!
 
- 
-
 ## I'm JOY!
 
- 
-:house_with_garden: I’m from Brazil
+🏡 Sou do Brasil.
 
-:books: I’m currently learning everything.
+🎓 Estou atualmente aprendendo constantemente, focando principalmente em trabalhar com Data Analytics, especialmente com MongoDB, Databricks, ETL e outras ferramentas.
 
-:outbox_tray: 2022 Goals: create a new project of life..
+📅 **Metas:**
+- **2022:** Criar um novo projeto de vida.
+- **2023:** Atualmente, sou uma trainee em DBA NoSQL, com foco principal em MongoDB. Recentemente, tenho estado envolvida em projetos com Databricks e ETL. Além disso, estou realizando vários cursos.
 
-:outbox_tray: 2023 Goals: Now, i'm sure, i'm going to be a Data Analytics :)
+🌟 No próximo semestre, estarei me formando em Big Data e Inteligência Analítica. Além disso, estou me preparando para um novo papel enquanto me torno mãe.
+
 
 ## About me
 
